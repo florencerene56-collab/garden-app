@@ -1,3 +1,12 @@
+"""
+garden_advice.py
+
+Prints gardening advice based on a hardcoded season and plant type.
+The plant type block gives fertilizer and pest control advice.
+The season block gives water and weather advice.
+All advice will be a string and printed in the console.
+"""
+
 # Hardcoded values for the season and plant type
 season = "summer"  # TODO: Replace with input() to allow user interaction.
 plant_type = "flower"  # TODO: Replace with input() to allow user interaction.
